@@ -20,8 +20,7 @@ Si tratta di un **lavoro totalmente amatoriale**, senza scopo di lucro e realizz
 
 - Tradurre in italiano i dialoghi, i testi a schermo e i menu.
 - Estrarre, decodificare e ricompilare gli asset di testo originali.
-- Garantire il più possibile fedeltà possibile allo stile narrativo dell’opera.
-- Documentare la struttura dei file e le tecniche usate per la modifica.
+- Garantire il più possibile fedeltà allo stile narrativo dell’opera.
 
 Il progetto è attualmente **in fase di sviluppo** e si basa sulla versione inglese (BLUS31197)
 
