@@ -2,6 +2,9 @@
 
 Questo repository ha lo scopo di documentare il lavoro in corso sulla mia **traduzione italiana di Drakengard 3**, in versione PlayStation 3.  
 
+[📸 Screenshot in game/wip](#screenshot-in-game)
+
+
 ---
 
 ## 📌 Introduzione
