@@ -32,8 +32,8 @@ Il progetto è attualmente **in fase di sviluppo** e si basa sulla versione ingl
 - ✔ Decodifica e reimportazione dei testi  
 - ✔ Analisi della struttura degli archivi del gioco  
 - ✔ Toolchain configurata  
-- ⏳ Traduzione dei file di testo principali  
-- ⏳ Traduzione dei menu e delle UI labels  
+- ✔ Traduzione dei file di testo principali  
+- ✔ Traduzione dei menu e delle UI labels  
 - ⏳ Verifica in-game della formattazione e del word wrap  
 - ⏳ Pulizia finale e revisione stile/nomenclatura  
 
