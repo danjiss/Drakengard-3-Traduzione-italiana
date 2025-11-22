@@ -2,7 +2,7 @@
 
 Questo repository ha lo scopo di documentare il lavoro in corso sulla mia **traduzione italiana di Drakengard 3**, in versione PlayStation 3.  
 
-[📸 Screenshot in game/wip](#-screenshot-in-game)
+[📸 Screen in game/wip](#-screenshot-in-game)
 
 
 ---
@@ -51,6 +51,8 @@ Tutti i crediti relativi al reverse engineering dei formati originali vanno a lu
 ---
 
 ## 🖼 Screenshot in game:
+
+<br>
 
 ![WIP Screenshot](https://raw.githubusercontent.com/danjiss/Drakengard-3-Traduzione-italiana/refs/heads/main/ingame/01.png)
 ![WIP Screenshot](https://raw.githubusercontent.com/danjiss/Drakengard-3-Traduzione-italiana/refs/heads/main/ingame/02.png)
